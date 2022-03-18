@@ -7,6 +7,6 @@ L'application présente un exemple de cv.
 ## Utilisation
 
 - Lancer npm install
-- puis nodemon app.js
+- puis Node app.js
 
 Le cv apparraitra à l'url localhost:3000/home.html
