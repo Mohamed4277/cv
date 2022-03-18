@@ -12,4 +12,4 @@ installer :
 npm install
 nodemon app.js
 
-L'application apparraitra à l'url localhost:3000/accueil.html
+L'application apparraitra à l'url localhost:3000/home.html
