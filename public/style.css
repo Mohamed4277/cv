@@ -6,10 +6,6 @@ a {
     color: var(--custom-color);
 }
 
-.breadcrumb {
-    margin: 0;
-}
-
 .col-md-4 {
     height: 100%;
     background-color: var(--custom-color);
@@ -46,12 +42,12 @@ body,
 }
 
 .navbar-brand:hover {
-    color:gray;
+    color: gray;
     font-size: 30px;
 }
 
 .navbar-brand {
-    color:gray;
+    color: gray;
 }
 
 .navbar {
@@ -96,7 +92,7 @@ ul {
     color: var(--custom-color);
 }
 
-#right-pane{
+#right-pane {
     height: 100vh;
     overflow: auto;
 }
@@ -134,9 +130,10 @@ h3 {
     width: 100%;
 }
 
-#formation{
+#formation {
     margin-top: 0;
 }
+
 #name-contact-tel {
     display: inline-block;
     width: 97%;
@@ -193,6 +190,6 @@ h3 {
     text-align: center;
 }
 
-.row{
+.row {
     margin-left: 0;
 }
