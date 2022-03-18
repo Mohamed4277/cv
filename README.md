@@ -1,15 +1,12 @@
 ## Introduction
 
-L'application présente un exemple de cv
-
+L'application présente un exemple de cv.
 ## Modules necessaires
 
-installer : 
-    - express
-
+- express
 ## Utilisation
 
-npm install
-nodemon app.js
+- Lancer npm install
+- puis nodemon app.js
 
-L'application apparraitra à l'url localhost:3000/home.html
+Le cv apparraitra à l'url localhost:3000/home.html
